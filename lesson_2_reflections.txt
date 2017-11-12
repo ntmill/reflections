@@ -1,3 +1,9 @@
 What happens when you initialize a repository? Why do you need to do it?
 
   It creates a .git file which stores the metadata
+
+How is the staging area different from the working directory and the repository?
+    What value do you think it offers?
+
+    It's a part of the repository in the working directory, but is an area
+    designed to double-check whether or not you want to make a commit
